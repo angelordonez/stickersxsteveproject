@@ -1,0 +1,48 @@
+
+a {
+  color: white;
+  text-decoration: none; /* no underline */
+  justify-content: end;
+  
+  text-decoration:none;
+  letter-spacing:3px;
+  font-weight:bold;
+  
+}
+
+.nav-item{
+  
+  font-family: 'Poppins', sans-serif;
+  letter-spacing:3px;
+  font-weight:bold;
+  font-size:20px;
+  margin-right:50px;
+}
+
+.navbar-brand{
+  
+  text-transform: uppercase;
+  letter-spacing:5px;
+  font-size:20px;
+  font-family: 'Poppins', sans-serif;
+  
+}
+#navbarMenu{
+  margin:20px;
+}
+.logo{
+  letter-spacing:5px;
+  margin-left:20px;
+}
+
+
+.linklogo{
+  color:white;
+  text-decoration: none;
+
+}
+
+html body {
+  background-color: none;
+  background:none;
+}
